@@ -10,6 +10,7 @@ This is a very simple Rest API testing the latest feature of deno which is the c
 ## Start
 - Install the requirements
 - Rename example.env to .env and fill your mongodb URI/cluster
+- Run `deno task start`
 
 ## Routes
 ```js
