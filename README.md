@@ -1,6 +1,5 @@
-# EXPRESS API USING DENO WITH NPM
-This is a very simple RestAPI testing the latest feature of deno which is the compatibility with npm
-We are using popular packages from npm like express and mongoose
+# Deno API using npm packages
+This is a very simple Rest API testing the latest feature of deno which is the compatibility with npm. We use popular npm packages like express and mongoose
 
 ## Requirements
 - **[Deno](https://deno.land/manual/getting_started/installation)**
