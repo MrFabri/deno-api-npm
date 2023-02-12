@@ -1,4 +1,4 @@
-import { Schema, model } from "npm:mongoose@^6.7";
+import { Schema, model } from "npm:mongoose";
 
 const taskSchema = new Schema({
     title: String,
