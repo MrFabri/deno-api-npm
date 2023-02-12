@@ -1,4 +1,4 @@
-import mongoose from 'npm:mongoose';
+import mongoose from "npm:mongoose@^6.7";
 import env from './config.ts';
 
 try {
